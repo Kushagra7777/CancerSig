@@ -7,7 +7,7 @@
 CSV format with miRNA expression (RPM log2). User can put their in-house miRNA expression into csv file.
 | Dataset                               | Abbreviation | miRNA panel                |
 |---------------------------------------|--------------|----------------------------|
-| Bladder urothelial carcinoma          | BLCA         | models/BLCA/BLCA_input.csv |
+| Bladder urothelial carcinoma          | BLCA         | [BLCA_input.csv](models/BLCA/BLCA_input.csv) |
 | Breast invasive carcinoma             | BRCA         | models/BRCA/BRCA_input.csv |
 | Colon adenocarcinoma                  | COAD         | models/COAD/COAD_input.csv |
 | Esophageal Carcinoma                  | ESCA         | models/ESCA/ESCA_input.csv |
