@@ -48,7 +48,7 @@ types.
 
 optional arguments:
   -h, --help  show this help message and exit
-  -t T        choose one of the cancer type(BLCA, BRC, COAD, ESCA, HNSC, KIRC, KIRP, LIHC, LUAD, LUSC, READ, SKCM, STAD, THCA, UVM)
+  -t T        choose one of the cancer type(BLCA, BRCA, COAD, ESCA, HNSC, KIRC, KIRP, LIHC, LUAD, LUSC, READ, SKCM, STAD, THCA, UVM)
   -i I        the file of miRNA gene expression for specific cancer type
 ```
 
