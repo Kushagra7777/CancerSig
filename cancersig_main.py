@@ -84,9 +84,9 @@ def main(args=None):
     elif cancer_type == "UVM":
         model = "models/UVM/UVM.model"
         scale = "models/UVM/UVM.feature.scale"
-    elif cancer_type == "BRC":
-        model = "models/BRC/BRC.model"
-        scale = "models/BRC/BRC.feature.scale"
+    elif cancer_type == "BRCA":
+        model = "models/BRCA/BRCA.model"
+        scale = "models/BRCA/BRCA.feature.scale"
     elif cancer_type == "LIHC":
         model = "models/LIHC/LIHC.model"
         scale = "models/LIHC/LIHC.feature.scale"
