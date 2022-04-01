@@ -4,7 +4,7 @@
 
 ## Input Data
 
-CSV format with miRNA expression (RPM log2). User can put their in-house miRNA expression into csv file.
+miRNA expression (RPM log2) with CSV format. User can put their in-house miRNA expression into csv file.
 | Dataset                               | Abbreviation | miRNA panel                |
 |---------------------------------------|--------------|----------------------------|
 | Bladder urothelial carcinoma          | BLCA         | [BLCA_input.csv](models/BLCA/BLCA_input.csv) |
