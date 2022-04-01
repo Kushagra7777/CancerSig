@@ -8,20 +8,20 @@ CSV format with miRNA expression (RPM log2). User can put their in-house miRNA e
 | Dataset                               | Abbreviation | miRNA panel                |
 |---------------------------------------|--------------|----------------------------|
 | Bladder urothelial carcinoma          | BLCA         | [BLCA_input.csv](models/BLCA/BLCA_input.csv) |
-| Breast invasive carcinoma             | BRCA         | models/BRCA/BRCA_input.csv |
-| Colon adenocarcinoma                  | COAD         | models/COAD/COAD_input.csv |
-| Esophageal Carcinoma                  | ESCA         | models/ESCA/ESCA_input.csv |
-| Head and neck squamous cell carcinoma | HNSC         | models/HNSC/HNSC_input.csv |
-| Kidney renal clear cell carcinoma     | KIRC         | models/KIRC/KIRC_input.csv |
-| Kidney renal papillary cell carcinoma | KIRP         | models/KIRP/KIRP_input.csv |
-| Liver hepatocellular carcinoma        | LIHC         | models/LIHC/LIHC_input.csv |
-| Lung adenocarcinoma                   | LUAD         | models/LUAD/LUAD_input.csv |
-| Lung squamous cell carcinoma          | LUSC         | models/LUSC/LUSC_input.csv |
-| Rectum adenocarcinoma                 | READ         | models/READ/READ_input.csv |
-| Skin cutaneous melanoma               | SKCM         | models/SKCM/SKCM_input.csv |
-| Stomach adenocarcinoma                | STAD         | models/STAD/STAD_input.csv |
-| Thyroid carcinoma                     | THCA         | models/THCA/THCA_input.csv |
-| Uveal melanoma                        | UVM          | models/UVM/UVM_input.csv   |
+| Breast invasive carcinoma             | BRCA         | [BRCA_input.csv](models/BRCA/BRCA_input.csv) |
+| Colon adenocarcinoma                  | COAD         | [COAD_input.csv](models/COAD/COAD_input.csv) |
+| Esophageal Carcinoma                  | ESCA         | [ESCA_input.csv](models/ESCA/ESCA_input.csv) |
+| Head and neck squamous cell carcinoma | HNSC         | [HNSC_input.csv](models/HNSC/HNSC_input.csv) |
+| Kidney renal clear cell carcinoma     | KIRC         | [KIRC_input.csv](models/KIRC/KIRC_input.csv) |
+| Kidney renal papillary cell carcinoma | KIRP         | [KIRP_input.csv](models/KIRP/KIRP_input.csv) |
+| Liver hepatocellular carcinoma        | LIHC         | [LIHC_input.csv](models/LIHC/LIHC_input.csv) |
+| Lung adenocarcinoma                   | LUAD         | [LUAD_input.csv](models/LUAD/LUAD_input.csv) |
+| Lung squamous cell carcinoma          | LUSC         | [LUSC_input.csv](models/LUSC/LUSC_input.csv) |
+| Rectum adenocarcinoma                 | READ         | [READ_input.csv](models/READ/READ_input.csv) |
+| Skin cutaneous melanoma               | SKCM         | [SKCM_input.csv](models/SKCM/SKCM_input.csv) |
+| Stomach adenocarcinoma                | STAD         | [STAD_input.csv](models/STAD/STAD_input.csv) |
+| Thyroid carcinoma                     | THCA         | [THCA_input.csv](models/THCA/THCA_input.csv) |
+| Uveal melanoma                        | UVM          | [UVM_input.csv](models/UVM/UVM_input.csv)   |
 
 ## Getting start
 
