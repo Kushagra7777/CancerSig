@@ -33,7 +33,7 @@ cd CancerSig
 build LIBSVM
 
 ```shell
-cd src/libsvm
+cd libsvm
 make
 ```
 
@@ -56,7 +56,16 @@ optional arguments:
 
 ```shell
 python cancersig_main.py -t BLCA -i models/BLCA/BLCA_input.csv
+svm-predict exist:libsvm/svm-predict
+svm-scale exist:libsvm/svm-scale
+cancer type:BLCA
+expression file:models/BLCA/BLCA_input.csv
+model exist:models/BLCA/BLCA.model
+prediction score:0.320973
 ```
+
+## Prediction Result
+Normalized probabilities between 0 to 1, with higher scores more likely to be advanced stages and lower scores more likely to be early stages.
 
 ## Contact
 
