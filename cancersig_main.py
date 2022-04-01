@@ -6,7 +6,7 @@ import csv
 def parse_arguments():
     str = 'CancerSig obtains a small set of miRNA biomarkers as a signature and establishes a panel of miRNAs to predict cancer stage across 15 cancer types. '
     parser = argparse.ArgumentParser(prog='cancersig_main.py', description=str)
-    parser.add_argument("-t", required=True, help="choose one of the cancer type(BLCA, BRC, COAD, ESCA, HNSC, KIRC, KIRP, LIHC, LUAD, LUSC, READ, SKCM, STAD, THCA, UVM)")
+    parser.add_argument("-t", required=True, help="choose one of the cancer type(BLCA, BRCA, COAD, ESCA, HNSC, KIRC, KIRP, LIHC, LUAD, LUSC, READ, SKCM, STAD, THCA, UVM)")
     parser.add_argument("-i", required=True, help="the file of miRNA gene expression for specific cancer type")
 
     return parser
