@@ -1,0 +1,256 @@
+"AVITI
+Number",Sample number,Type of Cancer,Sex,Age,Library Qbit concentration（ng/ul）,Number of Lead count,"Haziq
+Mapping Ratio (%)","TapeStation Peak
+
+",Notification,"リード数
+10万以上",
+1,PhiX,-,-,-,-,,,,,,
+2,KMG0025,肝臓がん-Liver cancer,M,51,7.4,"267,995",34.97,,,KMG0025,肝臓がん-Liver cancer
+3,KMG0037,健常者-Non-disabled person,F,26,0.838,"1,823,269",76.75,,,KMG0037,健常者-Non-disabled person
+4,KMG0038,健常者-Non-disabled person,F,45,10.6,"2,079,280",69.84,,,KMG0038,健常者-Non-disabled person
+5,KMG0039,健常者-Non-disabled person,F,43,10.3,"2,777,926",74.48,,,KMG0039,健常者-Non-disabled person
+6,KMG0033,膵がん-Pancreatic cancer,M,82,9.78,"587,242",63.91,,,KMG0033,膵がん-Pancreatic cancer
+7,KMG0071,乳がん-Breast cancer,F,88,15.5,"2,621,828",76.22,,,KMG0071,乳がん-Breast cancer
+8,KMG0088,膵がん-Pancreatic cancer,M,68,7.02,"2,032,403",71.05,,,KMG0088,膵がん-Pancreatic cancer
+9,KMG0096,脳腫瘍-Brain tumor,F,74,3.64,"1,643,788",66.01,,,KMG0096,脳腫瘍-Brain tumor
+10,KMG0034,健常者-Non-disabled person,M,61,0.586,"1,215,517",62.38,,,KMG0034,健常者-Non-disabled person
+11,KMG0035,健常者-Non-disabled person,F,23,1.13,"979,181",67.37,,,KMG0035,健常者-Non-disabled person
+12,KMG0040,健常者-Non-disabled person,F,53,0.634,"292,395",72.31,,,KMG0040,健常者-Non-disabled person
+13,KMG0042,健常者-Non-disabled person,F,46,0.824,"506,755",64.85,,,KMG0042,健常者-Non-disabled person
+14,KMG0051,健常者-Non-disabled person,F,38,0.934,"961,603",72.77,,,KMG0051,健常者-Non-disabled person
+15,KMG0055,健常者-Non-disabled person,F,33,0.66,"374,805",66.23,,,KMG0055,健常者-Non-disabled person
+16,KMG0056,健常者-Non-disabled person,F,42,1.47,"101,285",62.99,,,KMG0056,健常者-Non-disabled person
+17,KMG0057,肝臓がん-Liver cancer,F,74,0.898,"420,396",72.53,,,KMG0057,肝臓がん-Liver cancer
+18,KMG0059,乳がん-Breast cancer,F,50,2.7,"448,079",70.38,,,KMG0059,乳がん-Breast cancer
+19,KMG0062,肝臓がん-Liver cancer,M,84,1.83,"1,226,659",73.06,,,KMG0062,肝臓がん-Liver cancer
+20,KMG0063,乳がん-Breast cancer,F,52,1.17,"1,421,603",73.24,,,KMG0063,乳がん-Breast cancer
+21,KMG0064,卵巣がん-Ovarian cancer,F,53,0.942,"4,266",40.81,re-inspection,再検査結果良好!,,
+22,KMG0066,乳がん-Breast cancer,F,59,1.9,"11,916",63.32,,,,
+23,KMG0067,乳がん-Breast cancer,F,50,0.166,319,24.76,re-inspection,再検査結果良好!,,
+24,KMG0068,肝臓がん-Liver cancer,M,64,1.22,621,55.39,re-inspection,再検査結果良好!,,
+25,KMG0069,乳がん-Breast cancer,F,88,0.504,"1,914",47.75,re-inspection,再検査結果良好!,,
+26,KMG0072,肝臓がん-Liver cancer,F,76,1.56,"188,365",55,,,KMG0072,肝臓がん-Liver cancer
+27,KMG0073,肺がん-Lung cancer,F,79,2.56,"583,651",56.38,,,KMG0073,肺がん-Lung cancer
+28,KMG0074,肺がん-Lung cancer,M,65,4.36,"1,413,609",70.67,,,KMG0074,肺がん-Lung cancer
+29,KMG0075,肝臓がん-Liver cancer,M,60,0.244,"16,084",40.38,re-inspection,再検査結果も悪い,,
+30,KMG0076,大腸がん-Colorectal cancer,F,65,0.868,"750,018",65.75,,,KMG0076,大腸がん-Colorectal cancer
+31,KMG0077,大腸がん-Colorectal cancer,M,73,0.344,"6,106",56.37,re-inspection,再検査結果も悪い,,
+32,KMG0078,"脳腫瘍-Brain tumor, 疑い-suspected",F,47,1.27,"1,286,451",56.26,,,KMG0078,"脳腫瘍-Brain tumor, 疑い-suspected"
+33,KMG0079,乳がん-Breast cancer,F,69,2.38,"1,411,116",63.56,,,KMG0079,乳がん-Breast cancer
+34,KMG0080,膵がん-Pancreatic cancer,M,63,1.85,"1,422,608",36.39,,,KMG0080,膵がん-Pancreatic cancer
+35,KMG0081,胆道がん-Biliary tract cancer,F,65,0.85,"240,649",56.84,,,KMG0081,胆道がん-Biliary tract cancer
+36,KMG0083,肺がん-Lung cancer,M,75,0.622,"595,188",69.79,,,KMG0083,肺がん-Lung cancer
+37,KMG0084,胃がん-Gastric cancer,F,59,0.000001,36,33.33,re-inspection,再検査結果も悪い,,
+38,KMG0085,膵がん-Pancreatic cancer,M,78,1.04,"213,704",51.94,,,KMG0085,膵がん-Pancreatic cancer
+39,KMG0086,胃がん-Gastric cancer,M,83,0.7,"276,658",66.95,,,KMG0086,胃がん-Gastric cancer
+40,KMG0091,大腸がん-Colorectal cancer,M,72,0.616,"148,654",52.28,,,KMG0091,大腸がん-Colorectal cancer
+41,KMG0093,肺がん-Lung cancer,F,84,1.39,"238,023",46.15,,,KMG0093,肺がん-Lung cancer
+42,KMG0094,大腸がん-Colorectal cancer,M,87,0.8,"448,457",56.2,,,KMG0094,大腸がん-Colorectal cancer
+43,KMG0095,膵がん-Pancreatic cancer,F,63,5.88,"344,595",66.03,,,KMG0095,膵がん-Pancreatic cancer
+44,KMG0097,胃がん-Gastric cancer,F,85,0.704,"661,531",76.36,,,KMG0097,胃がん-Gastric cancer
+45,KMG0098,"脳腫瘍-Brain tumor, 疑い-suspected",F,47,1.15,"947,021",65.65,,,KMG0098,"脳腫瘍-Brain tumor, 疑い-suspected"
+46,KMG0099,乳がん-Breast cancer,F,80,1.2,"1,258,899",64.3,,,KMG0099,乳がん-Breast cancer
+47,KMG0100,大腸がん-Colorectal cancer,M,81,0.63,"179,576",50.84,,,KMG0100,大腸がん-Colorectal cancer
+48,KMG0101,脳腫瘍-Brain tumor,M,40,0.000001,"1,263",68.17,re-inspection,再検査結果も悪い,,
+49,KMG0102,"前立腺がん-Prostate cancer, 疑い-suspected",M,75,0.722,"388,204",57.83,,,KMG0102,"前立腺がん-Prostate cancer, 疑い-suspected"
+50,KMG0103,前立腺がん-Prostate cancer,M,72,6.38,"2,164,143",69.12,,,KMG0103,前立腺がん-Prostate cancer
+51,KMG0104,"前立腺がん-Prostate cancer, 疑い-suspected",M,73,1.21,"1,555,873",75.6,,,KMG0104,"前立腺がん-Prostate cancer, 疑い-suspected"
+52,KMG0105,胆道がん-Biliary tract cancer,M,76,3.38,"1,740,566",77.38,,,KMG0105,胆道がん-Biliary tract cancer
+53,KMG0106,胃がん-Gastric cancer,M,66,1.39,"1,047,656",86.23,,,KMG0106,胃がん-Gastric cancer
+54,KMG0107,乳がん-Breast cancer,F,48,7.08,"2,432,670",68.15,,,KMG0107,乳がん-Breast cancer
+55,KMG0108,大腸がん-Colorectal cancer,F,74,0.782,"680,824",50.04,,,KMG0108,大腸がん-Colorectal cancer
+56,KMG0109,前立腺がん-Prostate cancer,M,71,0.188,"55,633",22.84,re-inspection,,,
+57,KMG0110,前立腺がん-Prostate cancer,M,82,1.53,"897,582",73.91,,,KMG0110,前立腺がん-Prostate cancer
+58,KMG0111,前立腺がん-Prostate cancer,M,79,10,"480,517",67.37,,,KMG0111,前立腺がん-Prostate cancer
+59,KMG0112,肝臓がん-Liver cancer,M,75,9.78,"694,727",72.06,,,KMG0112,肝臓がん-Liver cancer
+60,KMG0113,胃がん-Gastric cancer,F,76,9.54,"251,449",61.59,,,KMG0113,胃がん-Gastric cancer
+61,KMG0114,肺がん-Lung cancer,F,75,8.96,"228,527",68.3,,,KMG0114,肺がん-Lung cancer
+62,KMG0115,肺がん-Lung cancer,M,81,0.000001,"11,034,259",81.6,,Qubitデータ誤,KMG0115,肺がん-Lung cancer
+63,KMG0116,"その他（がん）-Others(Cancer), 疑い-suspected",F,78,13.7,"1,089,371",69.97,,,KMG0116,"その他（がん）-Others(Cancer), 疑い-suspected"
+64,KMG0117,肝臓がん-Liver cancer,M,76,7.22,"30,868",26.86,re-inspection,,,
+65,KMG0118,前立腺がん-Prostate cancer,M,70,6.76,"1,062,355",71.89,,,KMG0118,前立腺がん-Prostate cancer
+66,KMG0119,膀胱がん-Bladder Cancer,M,81,2.52,"101,757",61.94,,,KMG0119,膀胱がん-Bladder Cancer
+67,KMG0120,胆道がん-Biliary tract cancer,M,77,3.3,"747,715",72,,,KMG0120,胆道がん-Biliary tract cancer
+68,KMG0121,乳がん-Breast cancer,F,73,3.38,"425,551",77.02,,,KMG0121,乳がん-Breast cancer
+69,KMG0122,肺がん-Lung cancer,M,75,5.7,"467,352",60.2,,,KMG0122,肺がん-Lung cancer
+70,KMG0123,膵がん-Pancreatic cancer,F,71,1.36,"370,419",47.16,,,KMG0123,膵がん-Pancreatic cancer
+71,KMG0124,前立腺がん-Prostate cancer,M,54,3.46,"110,017",64.84,,,KMG0124,前立腺がん-Prostate cancer
+72,KMG0125,脳腫瘍-Brain tumor,F,81,2.24,"790,052",68.24,,,KMG0125,脳腫瘍-Brain tumor
+73,KMG0126,胃がん-Gastric cancer,M,77,2.38,"586,729",60.6,,,KMG0126,胃がん-Gastric cancer
+74,KMG0127,大腸がん-Colorectal cancer,F,57,46,"1,724,227",71.17,,,KMG0127,大腸がん-Colorectal cancer
+75,KMG0128,肺がん-Lung cancer,F,66,1.48,"457,863",67.52,,,KMG0128,肺がん-Lung cancer
+76,KMG0129,その他-Others(Benign)(Not cancer),F,31,3.36,"714,889",75.18,,,KMG0129,その他-Others(Benign)(Not cancer)
+77,KMG0130,その他-Others(Benign)(Not cancer),M,81,7.36,"635,156",57.17,,,KMG0130,その他-Others(Benign)(Not cancer)
+78,KMG0131,腎細胞がん-Renal cell carcinoma,M,65,3.72,"137,854",38.29,,,KMG0131,腎細胞がん-Renal cell carcinoma
+79,KMG0132,食道がん-Esophageal cancer,F,78,2,"138,315",55.68,,,KMG0132,食道がん-Esophageal cancer
+80,KMG0133,膵がん-Pancreatic cancer,F,52,1.76,"36,253",37.77,re-inspection,,,
+81,KMG0134,大腸がん-Colorectal cancer,M,78,1.88,"217,837",64.82,,,KMG0134,大腸がん-Colorectal cancer
+82,KMG0135,胆道がん-Biliary tract cancer,M,73,3.84,"147,084",47,,,KMG0135,胆道がん-Biliary tract cancer
+83,KMG0136,食道がん-Esophageal cancer,M,70,12.4,"1,741,152",68.43,,,KMG0136,食道がん-Esophageal cancer
+84,KMG0137,乳がん-Breast cancer,F,39,4.22,"13,535",58.97,re-inspection,,,
+85,KMG0138,乳がん-Breast cancer,F,83,1.93,"148,202",47.31,,,KMG0138,乳がん-Breast cancer
+86,KMG0139,肺がん-Lung cancer,F,83,4.22,"293,287",66.57,,,KMG0139,肺がん-Lung cancer
+87,KMG0140,大腸がん-Colorectal cancer,M,74,1.36,"151,952",34.6,,,KMG0140,大腸がん-Colorectal cancer
+88,KMG0141,大腸がん-Colorectal cancer,F,79,3.24,"1,452,560",58.05,,,KMG0141,大腸がん-Colorectal cancer
+89,KMG0142,胃がん-Gastric cancer,M,66,1.94,"40,406",18.57,re-inspection,,,
+90,KMG0143,膵がん-Pancreatic cancer,F,77,4.06,"212,160",28.6,,,KMG0143,膵がん-Pancreatic cancer
+91,KMG0144,食道がん-Esophageal cancer,M,61,7.06,"278,916",48.45,,,KMG0144,食道がん-Esophageal cancer
+92,KMG0145,肺がん-Lung cancer,M,73,9.34,"520,564",57.37,,,KMG0145,肺がん-Lung cancer
+93,KMG0146,脳腫瘍-Brain tumor,F,71,9.3,"980,076",57.38,,,KMG0146,脳腫瘍-Brain tumor
+94,KMG0147,脳腫瘍-Brain tumor,F,53,10.5,"643,893",34.18,,,KMG0147,脳腫瘍-Brain tumor
+95,KMG0148,その他-Others(Benign)(Not cancer),M,71,5.76,"883,076",48.34,,,KMG0148,その他-Others(Benign)(Not cancer)
+96,KMG0149,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",M,,4.24,"188,929",46.39,,,KMG0149,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer"
+97,KMG0150,膵がん-Pancreatic cancer,F,77,1.51,"24,903",58.27,re-inspection,,,
+98,KMG0151,肺がん-Lung cancer,F,74,2.9,"768,513",47.1,,,KMG0151,肺がん-Lung cancer
+99,KMG0152,肺がん-Lung cancer,M,77,1.16,"714,418",48.28,,,KMG0152,肺がん-Lung cancer
+100,KMG0153,肝臓がん-Liver cancer,M,70,1.67,"558,859",61.95,,,KMG0153,肝臓がん-Liver cancer
+101,KMG0154,肝臓がん-Liver cancer,M,72,1.31,"187,687",45.14,,,KMG0154,肝臓がん-Liver cancer
+102,KMG0155,卵巣がん-Ovarian cancer,F,53,1.04,"242,565",43.79,,,KMG0155,卵巣がん-Ovarian cancer
+103,KMG0156,大腸がん-Colorectal cancer,M,85,2.6,"106,251",58.63,,,KMG0156,大腸がん-Colorectal cancer
+104,KMG0157,膵がん-Pancreatic cancer,F,56,2.16,"488,230",63.25,,,KMG0157,膵がん-Pancreatic cancer
+105,KMG0158,肺がん-Lung cancer,M,64,0.964,"113,760",58.48,,,KMG0158,肺がん-Lung cancer
+106,KMG0159,前立腺がん-Prostate cancer,M,76,17.8,"3,769,855",69.22,,,KMG0159,前立腺がん-Prostate cancer
+107,KMG0160,食道がん-Esophageal cancer,M,78,1.53,"1,607,478",68.27,,,KMG0160,食道がん-Esophageal cancer
+108,KMG0161,肝臓がん-Liver cancer,F,77,25.4,"3,354,773",69.95,,,KMG0161,肝臓がん-Liver cancer
+109,KMG0162,大腸がん-Colorectal cancer,F,64,2.7,"182,519",64.52,,,KMG0162,大腸がん-Colorectal cancer
+110,KMG0163,膵がん-Pancreatic cancer,M,60,3.56,"1,508,455",39.14,,,KMG0163,膵がん-Pancreatic cancer
+111,KMG0164,大腸がん-Colorectal cancer,F,57,1.35,"979,741",64.42,,,KMG0164,大腸がん-Colorectal cancer
+112,KMG0165,乳がん-Breast cancer,F,50,2.68,"1,149,849",65.57,,,KMG0165,乳がん-Breast cancer
+113,KMG0166,肺がん-Lung cancer,F,52,1.27,"1,994,276",68.66,,,KMG0166,肺がん-Lung cancer
+114,KMG0167,肺がん-Lung cancer,M,88,5.08,"2,712,756",63.15,,,KMG0167,肺がん-Lung cancer
+115,KMG0168,大腸がん-Colorectal cancer,F,71,2.54,"1,008,049",57.58,,,KMG0168,大腸がん-Colorectal cancer
+116,KMG0169,膵がん-Pancreatic cancer,F,77,7.66,"522,404",43.62,,,KMG0169,膵がん-Pancreatic cancer
+117,KMG0170,前立腺がん-Prostate cancer,M,76,3.66,"84,038",27.55,re-inspection,,,
+118,KMG0171,その他（がん）-Others(Cancer),M,67,1.53,"388,594",51.16,,,KMG0171,その他（がん）-Others(Cancer)
+119,KMG0172,胆道がん-Biliary tract cancer,M,81,2.26,"408,340",29.9,,,KMG0172,胆道がん-Biliary tract cancer
+120,KMG0173,大腸がん-Colorectal cancer,F,75,3.66,"376,933",37.47,,,KMG0173,大腸がん-Colorectal cancer
+121,KMG0174,"卵巣がん-Ovarian cancer, 疑い-suspected",F,43,0.956,"50,098",36.83,re-inspection,,,
+122,KMG0175,脳腫瘍-Brain tumor,F,74,3.8,"119,916",22.48,,,KMG0175,脳腫瘍-Brain tumor
+123,KMG0176,肺がん-Lung cancer,M,85,0.764,"66,130",32.59,re-inspection,,,
+124,KMG0177,脳腫瘍-Brain tumor,M,46,2.1,"120,900",39.39,,,KMG0177,脳腫瘍-Brain tumor
+125,KMG0178,前立腺がん-Prostate cancer,M,76,1.06,"40,809",25.5,re-inspection,,,
+126,KMG0179,大腸がん-Colorectal cancer,M,87,3,"217,563",31.49,,,KMG0179,大腸がん-Colorectal cancer
+127,KMG0180,その他-Others(Benign)(Not cancer),F,60,3.22,"88,870",40.74,re-inspection,,,
+128,KMG0181,肺がん-Lung cancer,M,84,1.2,"208,480",41.1,,,KMG0181,肺がん-Lung cancer
+129,KMG0182,その他-Others(Benign)(Not cancer),F,71,1.99,"37,564",11.85,re-inspection,,,
+130,KMG0183,食道がん-Esophageal cancer,M,85,3.08,"310,414",22.66,,,KMG0183,食道がん-Esophageal cancer
+131,KMG0184,肝臓がん-Liver cancer,M,62,28.2,"635,747",25.84,,,KMG0184,肝臓がん-Liver cancer
+132,KMG0185,乳がん-Breast cancer,F,71,0.722,"101,471",10.74,,,KMG0185,乳がん-Breast cancer
+133,KMG0186,撤回-Withdrawal of consent,M,63,0.37,"7,155",24.57,re-inspection,再検査結果も悪い,,
+134,KMG0187,大腸がん-Colorectal cancer,M,72,0.364,"1,675",14.69,re-inspection,再検査結果良好!,,
+135,KMG0188,大腸がん-Colorectal cancer,F,67,1.32,"295,082",20.04,,,KMG0188,大腸がん-Colorectal cancer
+136,KMG0189,胆道がん-Biliary tract cancer,F,87,1.3,"177,065",19.27,,,KMG0189,胆道がん-Biliary tract cancer
+137,KMG0190,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",,,3.88,"47,118",9.94,re-inspection,,,
+138,KMG0191,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",,,0.602,"204,049",28.17,,,KMG0191,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer"
+139,KMG0192,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",,,0.456,"29,087",20.89,re-inspection,,,
+140,KMG0193,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",,,1.06,"199,537",10.37,,,KMG0193,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer"
+141,KMG0194,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",,,0.866,"72,095",12.45,re-inspection,,,
+142,KMG0195,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",,,2.78,"19,808",18.31,re-inspection,,,
+143,KMG0196,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",,,0.592,"32,909",10.79,re-inspection,,,
+144,KMG0197,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",,,2.22,"774,432",13.56,,,KMG0197,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer"
+145,KMG0198,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",,,1.21,"61,429",23.08,re-inspection,,,
+146,KMG0199,胆道がん-Biliary tract cancer,F,56,0.718,"378,662",57.87,,,KMG0199,胆道がん-Biliary tract cancer
+147,KMG0200,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",,,12.1,"4,430,580",55.94,,,KMG0200,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer"
+148,KMG0201,乳がん-Breast cancer,F,75,14.3,"2,190,018",64.61,,,KMG0201,乳がん-Breast cancer
+149,KMG0202,肝臓がん-Liver cancer,M,64,0.73,"273,141",30.21,,,KMG0202,肝臓がん-Liver cancer
+150,KMG0203,肺がん-Lung cancer,F,82,3.48,"1,529,899",72.33,,,KMG0203,肺がん-Lung cancer
+151,KMG0204,"肺がん-Lung cancer, 疑い-suspected",F,47,1.97,"1,090,848",70.98,,,KMG0204,"肺がん-Lung cancer, 疑い-suspected"
+152,KMG0205,胆道がん-Biliary tract cancer,M,70,3.18,"1,579,677",56.52,,,KMG0205,胆道がん-Biliary tract cancer
+153,KMG0206,膀胱がん-Bladder Cancer,M,74,3.74,"5,132,011",72.8,,,KMG0206,膀胱がん-Bladder Cancer
+154,KMG0209,乳がん-Breast cancer,F,49,4.66,"65,446",45.07,re-inspection,,,
+155,KMG0210,大腸がん-Colorectal cancer,M,87,6.12,"79,418",24.22,re-inspection,,,
+156,KMG0211,肝臓がん-Liver cancer,M,79,4.16,"46,676",42.17,re-inspection,,,
+157,KMG0212,胃がん-Gastric cancer,F,84,2.3,"403,116",30.48,,,KMG0212,胃がん-Gastric cancer
+158,KMG0213,肺がん-Lung cancer,M,73,2.64,"6,219",34.36,re-inspection,,,
+159,KMG0214,食道がん-Esophageal cancer,M,82,1.12,"61,341",34.77,re-inspection,,,
+160,KMG0215,肝臓がん-Liver cancer,F,50,2.34,"169,248",32.97,,,KMG0215,肝臓がん-Liver cancer
+161,KMG0216,胃がん-Gastric cancer,F,75,15.3,"201,295",29.75,,,KMG0216,胃がん-Gastric cancer
+162,KMG0217,大腸がん-Colorectal cancer,F,79,1.57,"13,888",57.14,re-inspection,,,
+163,KMG0219,大腸がん-Colorectal cancer,M,63,2.76,"75,574",29.71,re-inspection,,,
+164,KMG0220,肺がん-Lung cancer,M,74,1.67,"44,543",45.89,re-inspection,,,
+165,KMG0221,前立腺がん-Prostate cancer,M,74,1.4,"61,809",39.83,re-inspection,,,
+166,KMG0222,前立腺がん-Prostate cancer,M,77,0.838,"94,592",31.73,re-inspection,,,
+167,KMG0223,膵がん-Pancreatic cancer,M,58,2.96,"306,891",17.15,,,KMG0223,膵がん-Pancreatic cancer
+168,KMG0224,大腸がん-Colorectal cancer,M,73,1.13,"97,994",36.22,re-inspection,,,
+169,KMG0225,その他-Others(Benign)(Not cancer),F,54,8.38,"138,809",54.42,,,KMG0225,その他-Others(Benign)(Not cancer)
+170,KMG0226,乳がん-Breast cancer,F,40,4.08,"732,025",59.61,,,KMG0226,乳がん-Breast cancer
+171,KMG0229,乳がん-Breast cancer,F,63,2.5,"77,686",57.19,re-inspection,,,
+172,KMG0230,膵がん-Pancreatic cancer,F,75,2.98,"1,008,539",52.78,,,KMG0230,膵がん-Pancreatic cancer
+173,KMG0231,"術後フォロー-Post-operative follow-up, 大腸がん-Colorectal cancer",M,41,2.1,"444,950",65.69,,,KMG0231,"術後フォロー-Post-operative follow-up, 大腸がん-Colorectal cancer"
+174,KMG0232,胆道がん-Biliary tract cancer,M,61,1.34,"8,463",54.09,re-inspection,,,
+175,KMG0234,前立腺がん-Prostate cancer,M,69,5.28,"45,707",56.42,re-inspection,,,
+176,KMG0236,膵がん-Pancreatic cancer,M,80,1.8,"61,879",59.63,re-inspection,,,
+177,KMG0237,胃がん-Gastric cancer,M,78,2.4,"231,642",62.01,,,KMG0237,胃がん-Gastric cancer
+178,KMG0238,乳がん-Breast cancer,F,67,0.884,"18,681",49.6,re-inspection,,,
+179,KMG0239,"卵巣がん-Ovarian cancer, 疑い-suspected",F,65,2.16,"31,338",50.67,re-inspection,,,
+180,KMG0240,胃がん-Gastric cancer,F,60,1.71,"121,948",59.31,,,KMG0240,胃がん-Gastric cancer
+181,KMG0244,肺がん-Lung cancer,M,80,3.36,"420,313",45.06,,,KMG0244,肺がん-Lung cancer
+182,KMG0245,胃がん-Gastric cancer,M,87,1.62,"917,631",52.53,,,KMG0245,胃がん-Gastric cancer
+183,KMG0246,膀胱がん-Bladder Cancer,M,68,5.38,"746,861",50.48,,,KMG0246,膀胱がん-Bladder Cancer
+184,KMG0247,膀胱がん-Bladder Cancer,M,72,0.88,"80,164",61.53,re-inspection,,,
+185,KMG0250,胆道がん-Biliary tract cancer,M,75,1.27,"311,829",54.25,,,KMG0250,胆道がん-Biliary tract cancer
+186,KMG0252,乳がん-Breast cancer,F,51,2.96,"1,256,272",54.4,,,KMG0252,乳がん-Breast cancer
+187,KMG0254,肺がん-Lung cancer,F,59,1.14,"125,157",29.59,,,KMG0254,肺がん-Lung cancer
+188,KMG0255,肺がん-Lung cancer,M,61,2.16,"213,633",59.43,,,KMG0255,肺がん-Lung cancer
+189,KMG0257,"肝臓がん-Liver cancer, 疑い-suspected",M,77,20.6,"287,792",40,,,KMG0257,"肝臓がん-Liver cancer, 疑い-suspected"
+190,KMG0260,前立腺がん-Prostate cancer,M,78,1.08,"37,102",37.48,re-inspection,,,
+191,KMG0261,前立腺がん-Prostate cancer,M,76,0.164,215,65.58,re-inspection,,,
+192,KMG0262,肝臓がん-Liver cancer,F,76,1.39,"78,940",37.26,re-inspection,,,
+193,KMG0264,神経内分泌腫瘍-Neuroendocrine neoplasm,M,49,0.71,"42,946",40.15,re-inspection,,,
+194,KMG0265,胃がん-Gastric cancer,M,58,3.48,"52,902",51.56,re-inspection,,,
+195,KMG0266,膵がん-Pancreatic cancer,F,71,2.86,"74,842",65.1,re-inspection,,,
+196,KMG0267,膵がん-Pancreatic cancer,M,70,3.26,"288,111",52.58,,,KMG0267,膵がん-Pancreatic cancer
+197,KMG0268,神経内分泌腫瘍-Neuroendocrine neoplasm,M,66,2.36,"33,665",37.24,re-inspection,,,
+198,KMG0269,大腸がん-Colorectal cancer,M,66,11.4,"119,949",37.47,,,KMG0269,大腸がん-Colorectal cancer
+199,KMG0271,肺がん-Lung cancer,F,70,1.05,"491,516",64.43,,,KMG0271,肺がん-Lung cancer
+200,KMG0273,大腸がん-Colorectal cancer,F,86,0.898,"2,585",32.57,re-inspection,,,
+201,KMG0274,膀胱がん-Bladder Cancer,M,84,2.38,"279,424",39.01,,,KMG0274,膀胱がん-Bladder Cancer
+202,KMG0275,その他-Others(Benign)(Not cancer),M,65,2.84,"2,326,726",69.32,,,KMG0275,その他-Others(Benign)(Not cancer)
+203,KMG0276,膀胱がん-Bladder Cancer,M,75,14.7,"67,621",40.57,re-inspection,,,
+204,KMG0277,胃がん-Gastric cancer,M,74,2.16,"400,393",65.88,,,KMG0277,胃がん-Gastric cancer
+205,KMG0278,肝臓がん-Liver cancer,M,75,0.81,"444,277",43.23,,,KMG0278,肝臓がん-Liver cancer
+206,KMG0280,胃がん-Gastric cancer,M,73,1.02,"20,907",41.97,re-inspection,,,
+207,KMG0281,"卵巣がん-Ovarian cancer, 疑い-suspected",F,45,0.142,153,34.64,re-inspection,,,
+208,KMG0282,乳がん-Breast cancer,F,58,0.756,"24,651",50.93,re-inspection,,,
+209,KMG0283,肺がん-Lung cancer,F,76,1.73,"22,034",40.36,re-inspection,,,
+210,KMG0285,膵がん-Pancreatic cancer,M,52,2.8,"98,676",49.73,re-inspection,,,
+211,KMG0286,膵がん-Pancreatic cancer,F,75,1.45,"36,922",25.38,re-inspection,,,
+212,KMG0288,大腸がん-Colorectal cancer,M,42,2.98,"3,303,583",74.22,,,KMG0288,大腸がん-Colorectal cancer
+213,KMG0289,胆道がん-Biliary tract cancer,F,83,1.45,"116,298",39.43,,,KMG0289,胆道がん-Biliary tract cancer
+214,KMG0290,神経内分泌腫瘍-Neuroendocrine neoplasm,F,67,1.16,"63,311",50.41,re-inspection,,,
+215,KMG0292,胆道がん-Biliary tract cancer,F,77,1.97,"73,772",36.62,re-inspection,,,
+216,KMG0293,肺がん-Lung cancer,M,73,1.03,"87,773",59.23,re-inspection,,,
+217,KMG0294,肝臓がん-Liver cancer,F,85,3.32,"414,901",64.6,,,KMG0294,肝臓がん-Liver cancer
+218,KMG0295,"肝臓がん-Liver cancer, 疑い-suspected, 脳腫瘍-Brain tumor",M,75,4.9,"260,563",48.85,,,KMG0295,"肝臓がん-Liver cancer, 疑い-suspected, 脳腫瘍-Brain tumor"
+219,KMG0296,前立腺がん-Prostate cancer,M,66,17.6,,,,,,
+220,KMG0297,前立腺がん-Prostate cancer,M,72,5.82,"622,279",63.68,,,KMG0297,前立腺がん-Prostate cancer
+221,KMG0298,前立腺がん-Prostate cancer,M,72,1.85,"1,114,246",73.21,,,KMG0298,前立腺がん-Prostate cancer
+222,KMG0299,その他-Others(Benign)(Not cancer),M,57,4.8,"174,220",64.03,,,KMG0299,その他-Others(Benign)(Not cancer)
+223,KMG0300,前立腺がん-Prostate cancer,M,78,0.668,"371,123",65.78,,,KMG0300,前立腺がん-Prostate cancer
+224,KMG0301,神経内分泌腫瘍-Neuroendocrine neoplasm,M,60,0.26,43,25.58,re-inspection,,,
+225,KMG0303,肺がん-Lung cancer,M,70,7.54,"1,522,473",84.65,,,KMG0303,肺がん-Lung cancer
+226,KMG0304,肺がん-Lung cancer,M,77,9.7,"47,790",44.97,re-inspection,,,
+227,KMG0306,肝臓がん-Liver cancer,F,76,2.16,"225,677",68.47,,,KMG0306,肝臓がん-Liver cancer
+228,KMG0307,大腸がん-Colorectal cancer,F,52,2.2,"155,171",41.13,,,KMG0307,大腸がん-Colorectal cancer
+229,KMG0310,前立腺がん-Prostate cancer,M,77,0.884,"43,464",48.81,re-inspection,,,
+230,KMG0311,大腸がん-Colorectal cancer,M,67,0.578,"62,701",44.95,re-inspection,,,
+231,KMG0312,膀胱がん-Bladder Cancer,M,85,1.16,"167,694",50.26,,,KMG0312,膀胱がん-Bladder Cancer
+232,KMG0037_2,健常者-Non-disabled person,F,26,0.386,"1,823,269",63.4,,,KMG0037_2,健常者-Non-disabled person
+233,KMG0064_2,卵巣がん-Ovarian cancer,F,53,1.05,"194,775",41.67,,,KMG0064_2,卵巣がん-Ovarian cancer
+234,KMG0066_2,乳がん-Breast cancer,F,59,1.66,"3,731,754",67.25,,,KMG0066_2,乳がん-Breast cancer
+235,KMG0067_2,乳がん-Breast cancer,F,50,0.418,"141,311",62,,,KMG0067_2,乳がん-Breast cancer
+236,KMG0068_2,肝臓がん-Liver cancer,M,64,16.9,"1,636,477",53.31,,,KMG0068_2,肝臓がん-Liver cancer
+237,KMG0069_2,乳がん-Breast cancer,F,88,0.556,"208,886",52.48,,,KMG0069_2,乳がん-Breast cancer
+238,KMG0075_2,肝臓がん-Liver cancer,M,60,0.238,32,21.88,re-inspection,,,
+239,KMG0077_2,大腸がん-Colorectal cancer,M,73,0.71,"46,901",56.48,re-inspection,,,
+240,KMG0084_2,胃がん-Gastric cancer,F,59,0.19,"82,467",43.09,re-inspection,,,
+241,KMG0101_2,脳腫瘍-Brain tumor,M,40,0.332,"52,362",68.13,re-inspection,,,
+242,KMG0109_2,前立腺がん-Prostate cancer,M,71,0.31,"33,735",53.39,re-inspection,,,
+243,KMG0115_2,肺がん-Lung cancer,M,81,1.47,"307,356",79.02,,,KMG0115_2,肺がん-Lung cancer
+244,KMG0186_2,撤回-Withdrawal of consent,M,63,2.7,"67,663",18.93,re-inspection,,,
+245,KMG0187_2,大腸がん-Colorectal cancer,M,72,0.706,"137,017",8.68,,,KMG0187_2,大腸がん-Colorectal cancer
+246,KMG0192_2,"術後フォロー-Post-operative follow-up, 肺がん-Lung cancer",,,0.47,"58,831",16.56,re-inspection,,,
+247,KMG0315,神経内分泌腫瘍-Neuroendocrine neoplasm,M,68,0.214,"399,046",76.82,,,KMG0315,神経内分泌腫瘍-Neuroendocrine neoplasm
+248,KMG0316,膵がん-Pancreatic cancer,F,76,1.77,"77,861",69.61,re-inspection,,,
+249,KMG0317,胃がん-Gastric cancer,M,80,0.738,"66,210",32.1,re-inspection,,,
+,,,,,Total reads,"151,250,755",,,,,

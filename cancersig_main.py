@@ -15,8 +15,8 @@ def main(args=None):
     args = parse_arguments().parse_args(args)
     cancer_type = args.t
     expression = args.i
-    svmpredict = "libsvm/svm-predict"
-    svmscale = "libsvm/svm-scale"
+    svmpredict = ".\\libsvm\\svm-predict.exe"
+    svmscale = ".\\libsvm\\svm-scale.exe"
     if os.path.exists(svmpredict):
         print("svm-predict exist:" + svmpredict)
     else:

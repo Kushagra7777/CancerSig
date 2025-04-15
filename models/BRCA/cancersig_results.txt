@@ -1,0 +1,2223 @@
+=== Sample: KMG0025_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0033_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0034_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0035_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0037_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0037_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0038_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0039_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0040_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0042_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0051_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0055_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0056_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0057_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0059_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0062_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0063_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0064_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0064_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0066_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0066_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0067_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0067_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0068_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0068_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0069_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0069_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0071_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0072_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0073_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0074_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0075_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.442377
+
+
+=== Sample: KMG0075_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0076_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0077_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0077_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0078_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0079_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0080_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0081_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0083_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0084_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0084_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0085_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0086_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0088_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0091_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0093_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0094_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0095_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0096_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0097_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0098_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0099_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0100_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0101_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0101_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0102_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0103_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0104_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0105_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0106_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0107_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0108_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0109_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0109_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0110_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0111_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0112_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0113_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0114_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0115_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0115_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0116_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0117_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0118_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0119_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0120_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0121_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0122_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0123_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0124_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0125_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0126_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0127_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0128_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0129_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0130_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0131_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0132_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0133_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0134_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0135_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0136_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0137_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0138_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0139_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0140_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0141_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0142_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0143_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0144_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0145_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0146_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0147_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0148_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0149_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0150_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0151_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0152_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0153_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0154_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0155_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0156_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0157_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0158_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0159_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0160_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0161_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0162_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0163_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0164_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0165_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0166_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0167_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0168_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0169_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0170_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0171_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0172_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0173_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0174_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0175_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0176_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0177_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0178_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0179_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0180_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0181_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0182_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0183_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0184_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0185_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0186_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0186_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0187_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0187_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0188_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0189_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0190_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0191_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0192_2_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0192_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0193_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0194_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0195_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0196_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0197_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0198_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0199_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0200_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0201_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0202_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0203_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0204_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0205_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0206_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0209_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0210_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0211_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0212_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0213_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0214_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0215_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0216_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0217_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0219_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0220_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0221_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0222_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0223_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0224_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0225_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0226_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0229_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0230_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0231_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0232_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0234_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0236_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0237_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0238_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0239_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0240_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0244_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0245_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0246_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0247_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0250_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0252_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0254_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0255_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0257_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0260_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0261_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.442377
+
+
+=== Sample: KMG0262_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0264_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0265_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0266_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0267_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0268_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0269_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0271_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0273_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0274_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0275_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0276_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0277_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0278_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0280_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0281_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.442377
+
+
+=== Sample: KMG0282_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0283_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0285_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0286_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0288_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0289_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0290_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0292_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0293_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0294_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0295_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0297_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0298_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0299_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0300_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0301_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.442377
+
+
+=== Sample: KMG0303_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0304_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0306_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0307_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0310_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0311_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0312_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0315_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0316_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
+=== Sample: KMG0317_R1 ===
+svm-predict exist:.\libsvm\svm-predict.exe
+svm-scale exist:.\libsvm\svm-scale.exe
+cancer type:BRCA
+expression file:models/BRCA/temp_single_sample.csv
+model exist:models/BRCA/BRCA.model
+prediction score:0.435243
+
+
